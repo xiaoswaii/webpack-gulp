@@ -1,0 +1,1 @@
+"use strict";var _pikachu=_interopRequireDefault(require("./pikachu.gif"));function _interopRequireDefault(e){return e&&e.__esModule?e:{default:e}}console.log("123");var test="Hello";console.log("".concat(test," Xiao Swaii")),require("./scss_style.scss"),console.log("XiaoSwaii");
